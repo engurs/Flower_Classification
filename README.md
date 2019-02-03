@@ -1,5 +1,5 @@
 # Flower_Classification
-
+[Kaggle InClass Prediction Competition](https://www.kaggle.com/c/oxford-102-flower-pytorch/)
 ### **Steps**
 1. Choose a flower picture among the dataset we used to train our model,
 2. Upload image into PyTorch,
